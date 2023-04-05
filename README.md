@@ -1,8 +1,8 @@
-# Microsoft Power BI projects
+# Microsoft Power BI: Vrinda Store Sales 2022 Dataset
 Project based on Microsoft Power BI to visualize the data.
 <hr></hr>
 
-This dataset is about Vrinda Store Annual report 2022, it involved data cleaning, processing, analysis and dashboard creation in Microsoft Excel.
+This dataset is about Vrinda Store Annual sales report 2022, it involved data cleaning, processing, analysis and dashboard creation in Microsoft Excel.
 
 
 
